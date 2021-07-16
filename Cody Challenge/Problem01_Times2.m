@@ -1,4 +1,4 @@
-function x = problem01_times2(x)
+function x = times2(x)
 %PROBLEM01_TIMES2 Times 2 - START HERE
 %
 % Try out this test problem first.
